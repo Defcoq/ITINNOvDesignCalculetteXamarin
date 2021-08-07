@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin.iOS\\ITINNovDesinCalculetteXamarin.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin.iOS\\ITINNovDesinCalculetteXamarin.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin.iOS\\ITINNovDesinCalculetteXamarin.iOS.csproj",
+        "projectName": "ITINNovDesinCalculetteXamarin.iOS",
+        "projectPath": "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin.iOS\\ITINNovDesinCalculetteXamarin.iOS.csproj",
+        "packagesPath": "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpierre.deffofotso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin\\ITINNovDesinCalculetteXamarin.csproj": {
+                "projectPath": "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin\\ITINNovDesinCalculetteXamarin.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin\\ITINNovDesinCalculetteXamarin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin\\ITINNovDesinCalculetteXamarin.csproj",
+        "projectName": "ITINNovDesinCalculetteXamarin",
+        "projectPath": "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin\\ITINNovDesinCalculetteXamarin.csproj",
+        "packagesPath": "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\Repo\\Xamarin\\CalculetteXamarin\\CalculetteXamarin\\CalculetteXamarin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpierre.deffofotso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AngouriMath": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

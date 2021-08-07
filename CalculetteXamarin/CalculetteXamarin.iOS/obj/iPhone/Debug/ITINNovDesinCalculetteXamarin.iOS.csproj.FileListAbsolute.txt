@@ -1,0 +1,8 @@
+C:\Workspace\Repo\Xamarin\CalculetteXamarin\CalculetteXamarin\CalculetteXamarin.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Workspace\Repo\Xamarin\CalculetteXamarin\CalculetteXamarin\CalculetteXamarin.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Workspace\Repo\Xamarin\CalculetteXamarin\CalculetteXamarin\CalculetteXamarin.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Workspace\Repo\Xamarin\CalculetteXamarin\CalculetteXamarin\CalculetteXamarin.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Workspace\Repo\Xamarin\CalculetteXamarin\CalculetteXamarin\CalculetteXamarin.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Workspace\Repo\Xamarin\CalculetteXamarin\CalculetteXamarin\CalculetteXamarin.iOS\obj\iPhone\Debug\optimized\
+C:\Workspace\Repo\Xamarin\CalculetteXamarin\CalculetteXamarin\CalculetteXamarin.iOS\obj\iPhone\Debug\ITINNovDesinCalculetteXamarin.iOS.csproj.AssemblyReference.cache
+C:\Workspace\Repo\Xamarin\CalculetteXamarin\CalculetteXamarin\CalculetteXamarin.iOS\obj\iPhone\Debug\ITINNovDesinCalculetteXamarin.iOS.csproj.CoreCompileInputs.cache
